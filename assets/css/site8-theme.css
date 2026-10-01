@@ -1,0 +1,39 @@
+/* 윤슬마사지 • site8 factory theme • v1 */
+:root {--s8-dark:#49341F;--s8-accent:#A67A38;--s8-light:#FCF6E9;--s8-gold:#D7B984;}
+body {background:var(--s8-light);}
+.site {box-shadow:0 15px 65px rgba(0,0,0,.065);}
+.header {border-bottom-color:#D7B98466;}
+.logo-copy b,.footer-logo b {color:var(--s8-dark);}
+.search button,.detail-btn,.bottom-nav .active {background:var(--s8-accent)!important;color:white!important;}
+.quick a,.partner,footer {background:var(--s8-dark)!important;color:#fff;}
+.card,.region-row {border-radius:13px;border-color:#A67A3833;}
+.thumb {background:linear-gradient(145deg,#49341F,#A67A38);}
+.ml-test-hero {background:linear-gradient(150deg,#49341F,#A67A38)!important;}
+.ml-test-feature {background:#A67A38!important;}
+.ml-test-phone {background:#49341F!important;color:#fff!important;}
+.ml-test-sms {background:#FCF6E9!important;color:#49341F!important;}
+.ml-test-title,.ml-test-loc {color:#D7B984!important;}
+.ml-test-contact a {border-radius:6px;}
+.haru-home .header {border-bottom-color:#A67A384d!important;}
+.haru-home .mark,.haru-home .footer-logo .mark {background:linear-gradient(145deg,#49341F,#A67A38)!important;}
+.haru-home .logo-copy b {color:#49341F!important;}
+.haru-home .logo-copy small {color:#A67A38!important;}
+.haru-home main > .main-title-section {background:linear-gradient(120deg,#49341F,#A67A38)!important;border-radius:30px!important;}
+.haru-home main > .main-title-section h1 em {color:#D7B984!important;}
+.haru-home .haru-hero-eyebrow,.haru-home .haru-hero-caption {color:#D7B984!important;}
+.haru-home .haru-primary-action {background:#D7B984!important;color:#49341F!important;}
+.haru-home .haru-hero-art {object-fit:cover!important;border-radius:6px!important;width:39%!important;height:75%!important;max-height:none!important;right:2%!important;bottom:12%!important;opacity:.96!important;filter:drop-shadow(0 14px 20px #0004)!important;}
+.haru-home main > .categories-section {background:#FCF6E9!important;border-color:#D7B98466!important;}
+.haru-home .categories i {background:#D7B98433!important;color:#49341F!important;}
+.haru-home .search button,.haru-home .detail-btn {background:#A67A38!important;border-color:#A67A38!important;}
+.haru-home .quick a {background:linear-gradient(125deg,#49341F,#A67A38)!important;border-color:#A67A3866!important;}
+.haru-home .quick a:nth-child(2) {background:linear-gradient(125deg,#A67A38,#49341F)!important;}
+.haru-home .quick a:nth-child(3) {background:linear-gradient(125deg,#49341F,#D7B98499)!important;}
+.haru-home .main-special-card {background:linear-gradient(135deg,#fff,#FCF6E9)!important;border-color:#A67A3844!important;}
+.haru-home .section-title>a,.haru-home .tabs button.active {color:#A67A38!important;}
+.haru-home .region-row,.haru-home .card {border-radius:13px!important;border-color:#A67A3833!important;}
+.haru-home .thumb {background:linear-gradient(145deg,#49341F,#A67A38)!important;}
+.haru-home .badge,.haru-home .region-row-thumb b {background:#D7B984!important;color:#49341F!important;}
+.haru-home footer {background:#49341F!important;}
+.haru-home .partner {background:linear-gradient(125deg,#49341F,#A67A38)!important;}
+@media(max-width:700px) {.haru-home .haru-hero-art {width:44%!important;height:35%!important;right:1%!important;bottom:2%!important;}}
