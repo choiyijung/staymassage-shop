@@ -8,4 +8,4 @@ Disallow: /join.html
 Disallow: /mypage.html
 Disallow: /shop.html
 
-Sitemap: https://yoonseulmassage.xyz/sitemap.xml
+Sitemap: https://staymassage-shop.netlify.app/sitemap.xml
